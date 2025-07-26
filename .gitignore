@@ -1,0 +1,16 @@
+# Ignore Vosk models
+models/
+
+# Ignore Python virtual environments
+venv/
+
+# Ignore OS/system files
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.DS_Store
+
+# Optional: IDE stuff
+.vscode/
+.idea/
